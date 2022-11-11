@@ -100,7 +100,7 @@ session_start();
                     </div>
                     <div class="col-lg-6 text-center order-0 order-lg-1 mb-5 mb-lg-0">
                         <div class="heroimg">
-                            <img src="./asset/hero/1.jpg" alt="poto" class="img-fluid heroimg__poto" />
+                            <img src="asset/hero/1.jpg" alt="poto" class="img-fluid heroimg__poto" />
                         </div>
                     </div>
                 </div>
