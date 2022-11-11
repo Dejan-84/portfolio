@@ -100,7 +100,7 @@ session_start();
                     </div>
                     <div class="col-lg-6 text-center order-0 order-lg-1 mb-5 mb-lg-0">
                         <div class="heroimg">
-                            <img src="asset/hero/1.jpg" alt="poto" class="img-fluid heroimg__poto" />
+                            <img src="asset/hero/1.jpg" alt="photo" class="img-fluid heroimg__poto" />
                         </div>
                     </div>
                 </div>
@@ -262,7 +262,7 @@ session_start();
                         <div id="porfoliowarp" class="grid-gutter-md grid-col-3">
                             <!--  PORFOLIO ITEM -->
                             <div class="porfoliowarp__item" data-groups='["branding"]'>
-                                <a class="porfoliowarp__portolink glightbox" data-glightbox="type: image" href="./asset/portfolio/1.jpg">
+                                <a class="porfoliowarp__portolink glightbox" data-glightbox="type: image" href="asset/portfolio/1.jpg">
                                     <i class="fa-solid fa-circle-plus"></i>
                                     <div class="porfoliowarp__content">
                                         <a href="https://dejandjurdjev.com/furniture/index.php" target="_blank">
