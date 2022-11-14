@@ -274,20 +274,24 @@ session_start();
                             <!-- END PORTFOLIO ITEM -->
                             <!--  PORFOLIO ITEM -->
                             <div class="porfoliowarp__item" data-groups='["branding"]'>
-                                <a class="porfoliowarp__portolink glightbox" data-glightbox="type: image" href="./asset/portfolio/2.jpg">
+                                <a class="porfoliowarp__portolink glightbox" data-glightbox="type: image" href="asset/portfolio/2.jpg">
                                     <i class="fa-solid fa-circle-plus"></i>
                                     <div class="porfoliowarp__content">
-                                    <img src="./asset/portfolio/furniture.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
+                                    <a href="https://dejandjurdjev.com/digitalstudio/index.php" target="_blank">
+                                            <img src="./asset/portfolio/digitalstudio_2.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
+                                     </a>
                                     </div>
                                 </a>
                             </div>
                             <!-- END PORTFOLIO ITEM -->
                             <!--  PORFOLIO ITEM -->
-                            <div class="porfoliowarp__item" data-groups='["web"]'>
-                                <a class="porfoliowarp__portolink glightboxvideo" data-glightbox="type: video" href="https://www.youtube.com/watch?v=mqy98hcMV9w">
+                            <div class="porfoliowarp__item" data-groups='["branding"]'>
+                                <a class="porfoliowarp__portolink glightboxvideo" data-glightbox="type: image" href="asset/portfolio/3.jpg">
                                     <i class="fa-solid fa-circle-plus"></i>
                                     <div class="porfoliowarp__content">
-                                    <img src="./asset/portfolio/furniture.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
+                                     <a href="./asset/portfolio/under.gif" target="_blank">
+                                            <img src="./asset/portfolio/rentacar.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
+                                     </a>
                                     </div>
                                 </a>
                             </div>
