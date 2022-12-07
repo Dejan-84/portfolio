@@ -262,38 +262,38 @@ session_start();
                         <div id="porfoliowarp" class="grid-gutter-md grid-col-3">
                             <!--  PORFOLIO ITEM -->
                             <div class="porfoliowarp__item" data-groups='["branding"]'>
-                                <a class="porfoliowarp__portolink glightbox" data-glightbox="type: image" href="asset/portfolio/1.jpg">
-                                    <i class="fa-solid fa-circle-plus"></i>
+                            <a href="https://dejandjurdjev.com/furniture/index.php" target="_blank">
+                                <span class="porfoliowarp__portolink glightbox">
+                                    <i class="fa-solid fa-link"></i>
                                     <div class="porfoliowarp__content">
-                                        <a href="https://dejandjurdjev.com/furniture/index.php" target="_blank">
-                                            <img src="./asset/portfolio/furniture.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
-                                        </a>
+                                        <img src="./asset/portfolio/furniture.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
                                     </div>
-                                </a>
+                                </span>
+                            </a>
                             </div>
                             <!-- END PORTFOLIO ITEM -->
                             <!--  PORFOLIO ITEM -->
                             <div class="porfoliowarp__item" data-groups='["branding"]'>
-                                <a class="porfoliowarp__portolink glightbox" data-glightbox="type: image" href="asset/portfolio/2.jpg">
-                                    <i class="fa-solid fa-circle-plus"></i>
-                                    <div class="porfoliowarp__content">
-                                    <a href="https://dejandjurdjev.com/digitalstudio/index.php" target="_blank">
-                                            <img src="./asset/portfolio/digitalstudio_2.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
-                                     </a>
-                                    </div>
-                                </a>
+                                <a href="https://dejandjurdjev.com/digitalstudio/index.php" target="_blank">
+                                    <span class="porfoliowarp__portolink glightbox" >
+                                        <i class="fa-solid fa-link"></i>
+                                        <div class="porfoliowarp__content">
+                                            <img src="./asset/portfolio/digital-studio.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
+                                        </div>
+                                    </span>
+                                </a>    
                             </div>
                             <!-- END PORTFOLIO ITEM -->
                             <!--  PORFOLIO ITEM -->
                             <div class="porfoliowarp__item" data-groups='["branding"]'>
-                                <a class="porfoliowarp__portolink glightboxvideo" data-glightbox="type: image" href="asset/portfolio/3.jpg">
-                                    <i class="fa-solid fa-circle-plus"></i>
-                                    <div class="porfoliowarp__content">
-                                     <a href="./asset/portfolio/under.gif" target="_blank">
-                                            <img src="./asset/portfolio/rentacar.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
-                                     </a>
-                                    </div>
-                                </a>
+                                <a href="https://dejandjurdjev.com/rent-a-car/index.php" target="_blank">
+                                    <span class="porfoliowarp__portolink glightbox" >
+                                        <i class="fa-solid fa-link"></i>
+                                        <div class="porfoliowarp__content">
+                                            <img src="./asset/portfolio/renta-car.png" alt="" style="max-width: 100%; height: 280px; border: 1px solid #cccccc; border-radius: 5px;">
+                                        </div>
+                                    </span>
+                                </a>    
                             </div>
                             <!-- END PORTFOLIO ITEM -->
                            
@@ -391,8 +391,7 @@ session_start();
     <!-- end footer section-->
     <!-- keen slider -->
     <script src="./javascript/vendor/keen-slider.js"></script>
-    <!-- glightbox -->
-    <script src="./javascript/vendor/glightbox.js"></script>
+
     <!-- shufle -->
     <script src="./javascript/vendor/shufle.js"></script>
     <!-- script -->
